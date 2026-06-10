@@ -41,8 +41,11 @@ Users can click the "BACK" Button to navigate back to the previous screen of whi
 <img width="1321" height="944" alt="Screenshot 2026-06-10 142720" src="https://github.com/user-attachments/assets/b26927f7-eda5-4d9c-9077-de24f03aeb83" />
 
 *APP RUNNING WITH CODE IN THE BACKGROUND.
+
 MainActivity.kt = Splash Screen
+
 MainScreen.kt = Main Screen
+
 DetailedView.kt = Deatiled View Screen
 
 
