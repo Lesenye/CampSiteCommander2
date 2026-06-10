@@ -28,4 +28,21 @@ The "RESET" button can be used by users to cancel all the products they have add
 
 The "EXIT" Button can be used to fully exit the app if users have used it or want to locate to othert apps.
 
+<img width="539" height="836" alt="Screenshot 2026-06-10 142525" src="https://github.com/user-attachments/assets/99cd99c9-f621-4259-9989-9fbb0d982b30" />
+
+Type the gear you would like to add and when done, press "ADD GEAR" to recieve more reminders and notes or oress "RESET" to quickly erase everything and type in newer Tools you might need.
+
+<img width="557" height="976" alt="Screenshot 2026-06-10 142629" src="https://github.com/user-attachments/assets/1bafc0fd-41f0-48fa-94e3-898246a6c7c5" />
+
+After presssing "ADD GEAR" Button you will be taken to another screen of which will disaplay the list of good and it's Categories you might need.
+
+Users can click the "BACK" Button to navigate back to the previous screen of which they where, either to make another list or Exit the app.
+
+<img width="1321" height="944" alt="Screenshot 2026-06-10 142720" src="https://github.com/user-attachments/assets/b26927f7-eda5-4d9c-9077-de24f03aeb83" />
+
+*APP RUNNING WITH CODE IN THE BACKGROUND.
+
+
+
+
 
